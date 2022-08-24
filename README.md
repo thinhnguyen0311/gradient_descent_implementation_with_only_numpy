@@ -6,6 +6,6 @@ The aim of this mini-project is to execute the Gradient Descent step-by-step to 
 
 Table of content:
 1. Prepare the data.
-2. Implementation of Stochatics Gradient Descent
+2. Implementation of Stochastic Gradient Descent
 3. Implementation of Mini-Batch Gradient Descent
 4. Implementation of Batch Gradient Descent
